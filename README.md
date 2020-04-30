@@ -1,3 +1,3 @@
 # phys290
 Phys290 Homeworks
-homework1 is in the .ipnyb 
+homework2 is in the .ipnyb 
